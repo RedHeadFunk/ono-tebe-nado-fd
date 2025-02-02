@@ -295,12 +295,16 @@
   list-style: none;
 }
 
-.footer_image {
+.footer_social_link_list {
   display: flex;
   justify-content: flex-end;
   gap: 48px;
 }
 
-.footer_image_link {
+.footer_social_list_item {
+  list-style: none;
+}
+
+.footer_social_icon {
   width: 48px;
 }
